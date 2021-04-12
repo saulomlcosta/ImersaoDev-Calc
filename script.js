@@ -1,4 +1,4 @@
-var operação = window.prompt("digite 1 para divisão, 2 para multiplicar, 3 para somar e o 4 para subtrair e 5 para potencia e 6 para porcentagem, 7 para raiz quadrada")
+var operação = prompt("digite 1 para divisão, 2 para multiplicar, 3 para somar e o 4 para subtrair e 5 para potencia e 6 para porcentagem, 7 para raiz quadrada")
 
 var resultado = primeiroValorNumero * segundoValorNumero
 
